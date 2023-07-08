@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Shane Snover
+	email = ssnover95@gmail.com
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
